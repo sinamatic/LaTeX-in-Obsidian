@@ -143,11 +143,11 @@ Der Text vor der Tabelle.
 
 Text zwischen den Tabellen.
 
-| Nicht ausgerichtet | Nicht ausgerichtet |
-|---|---|
-| lorem | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| ipsum | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| dolor | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Nicht ausgerichtet | Nicht ausgerichtet                                                                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| lorem              | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq ua. |
+| ipsum              | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  |
+| dolor              | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  |
 
 | Rechtsbündig | Linksbündig |
 |---:|:---|
