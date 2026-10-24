@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "b62b49d9b49b5ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08eeb49e90ad4e94",
+            "type": "leaf",
+            "state": {
+              "type": "typst-preview",
+              "state": {
+                "vaultPath": "clean-othaw-0.3/template/main.typ",
+                "themeOverride": "light",
+                "pinned": false
+              },
+              "icon": "book-open",
+              "title": "Preview: main.typ"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.35546875
   },
   "right": {
     "id": "2a2a079bd1c40a24",
@@ -185,37 +205,45 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "typst-pdf-export:Export to PDF with Typst": false
+      "bases:Neue Base erstellen": false
     }
   },
   "active": "0856e231c4c5c7fd",
   "lastOpenFiles": [
+    "attachments/Bildschirmfoto 2026-10-24 um 03.22.52.png",
+    "clean-othaw-0.3/template/main.typ",
+    "Project Documentation.md",
+    "attachments/Bildschirmfoto 2026-10-24 um 03.20.30.png",
+    "clean-othaw-0.3/template/glossary.typ",
+    "clean-othaw-0.3/template/anhang.typ",
+    "clean-othaw-0.3/template/assets/ts.svg",
+    "clean-othaw-0.3/template/assets/Anhang A.pdf",
+    "clean-othaw-0.3/docs/assumptions.md",
+    "clean-othaw-0.3/docs/design-explained.md",
+    "clean-othaw-0.3/docs/im-begin-chapter.png",
+    "clean-othaw-0.3/docs/usability-issues.md",
+    "clean-othaw-0.3/check-attributes.typ",
+    "clean-othaw-0.3/abstract.typ",
+    "clean-othaw-0.3/template/sources.bib",
+    "clean-othaw-0.3/titlepage.typ",
+    "clean-othaw-0.3/typst.toml",
+    "clean-othaw-0.3/template/assets",
+    "clean-othaw-0.3/oth.svg",
+    "clean-othaw-0.3/README.md",
+    "attachments/Bildschirmfoto 2026-10-24 um 03.07.47.png",
+    "omd2typst-examples/templates/omd2typst-frontmatter.md",
+    "Project Proposal.md",
+    "omd2typst-examples/templates/purple template test.md",
+    "omd2typst-examples/input/input-en.md",
+    "README.md",
     "attachments/Bildschirmfoto 2026-10-24 um 02.24.41.png",
     "omd2typst-examples/input/input-de.md",
-    "exports/omd2typst-examples/input",
-    "exports/omd2typst-examples",
-    "Project Documentation.md",
-    "Project Documentation.pdf",
-    "exports",
-    "Project Proposal.md",
-    "README.md",
-    "omd2typst-examples/templates/purple-template.typ",
-    "Neuer Ordner",
-    "omd2typst-examples/templates/omd2typst-frontmatter.md",
     "attachments/Bildschirmfoto 2026-10-24 um 01.34.44.png",
     "attachments/Bildschirmfoto 2026-10-24 um 01.35.45.png",
     "attachments/Bildschirmfoto 2026-10-24 um 01.36.19.png",
-    "omd2typst-examples/input/input-de Purple Template.pdf",
-    "omd2typst-examples/input/input-de Standard Template.pdf",
-    "omd2typst-examples/input/input-de Tig Template.pdf",
     "attachments/Bildschirmfoto 2026-10-24 um 01.27.16.png",
-    "attachments",
-    "attachments/Bildschirmfoto 2026-10-24 um 01.21.17.png",
     "omd2typst-examples/input/input-es.md",
-    "omd2typst-examples/input/input-en.md",
     "omd2typst-examples/input/input-nl.md",
-    "omd2typst-examples/input/input-fr.md",
-    "omd2typst-examples/input/_assets/laptop.png"
+    "omd2typst-examples/input/input-fr.md"
   ]
 }
