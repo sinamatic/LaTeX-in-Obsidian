@@ -1,3 +1,4 @@
 [
-  "omd-to-typst"
+  "omd-to-typst",
+  "typst-pdf-export"
 ]

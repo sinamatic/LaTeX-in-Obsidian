@@ -1,0 +1,1 @@
+This repository tries to add the Ohm LaTeX Thesis template to obsidian and render it using Typst. 
